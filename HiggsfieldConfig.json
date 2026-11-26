@@ -1,0 +1,23 @@
+{
+  "id": "b8af0ea6-6c3a-44c1-9c70-3395d856e2a5",
+  "name": "Higgsfield",
+  "version": 1,
+  "description": "Browse and play public Higgsfield community films.",
+  "author": "Salient Vision",
+  "authorUrl": "https://salient.vision",
+  "platformUrl": "https://higgsfield.ai",
+  "repositoryUrl": "https://github.com/jlmalone/grayjay-plugin-higgsfield",
+  "sourceUrl": "https://raw.githubusercontent.com/jlmalone/grayjay-plugin-higgsfield/master/HiggsfieldConfig.json",
+  "scriptUrl": "./Higgsfield.js",
+  "packages": [
+    "Http"
+  ],
+  "allowEval": false,
+  "allowUrls": [
+    "higgsfield.ai",
+    "cdn.higgsfield.ai",
+    "fnf-api-gw.higgsfield.ai"
+  ],
+  "scriptSignature": "YviUtTOn8b8aog5qMFRpQ+ksEGkH91haJoNthUCv9N2S6SoFsrGBlWWBiMAy2lbm7tVznx/CO23znobJFo/3XCQOHy61xno8UkHl9vBY0BQyad9ClP+0JY6NdLORSbCWOr4riNH8YnlglrHrCEuwLd2PF+vI1Yc0WGeE49VRwmhhnsUKdqhQoERGVaoaYvmaV643/tUotgdD1TauoqtD6BpoTdBrPFkvtKplQpRejLgAQ2J9JY6S12LOqcqi8LIMpPPQ7ei3QH2d97uAGNdY5nmKLeSi/1Uh+bWdvalgv7Ey3R0aoYtDwag5nHKvNKRUQfFgOJttXMh0agtzqubtDauZNfHXe1AOr+BowzRPG3MwIKS3iWXTw/e0rMTHBqfwwWHgb8b9gAX56xc/DTBNpcHADQnaww5fOvSXI6S0GqBN5M7NpI6osOebwt0pHnQsMsVGRCmjkYdsyCqihHHecwx13Qg02epGH/nT43Klm98AqnKKFWVN7NuuOBFlyhAr",
+  "scriptPublicKey": "MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAkkV4Ve7vvRLDfsCUKjz1FbLcMM0FWpAzw4HoLR46PGp3F+aLzd5mcXcMqa+oAUi6nSWkM8K8SJTaVTkTNM84zr6cBeN1Mi8n2rY8a0EWXJJ7F96neXybK1Zd5I5ajsN7WNS0RE53J1cZpdlRZyGK4EVqTaoMVPgYL4nHZ/CbK99AppYBr48xesvqtzrrqA7Sy58hFEfzUHD7MkyGB48S4tqsKW1kpkjgRbOguunvN4KGyX6FEjEQbWQDHhZHLNyM6pN1rVuNNlyC0GZdo02REwR9pO+ChKbQhGiuauXhQCIYMqP6fYL8ICWrblf3TXN9IGH12exisVX7ab8qmxe76V2/n9gfMnE5h6VPblIzBuZHjFvs3nswlzVaZ8RonxE9KIuhuj4OtXqqG8tIDZrLlQNVoK6rsg2o645hVAbFEt/vNnMXdNMVtLHKjKgFrP34FaSh6lkNcgN80lN3/QTqN5ir3B9Gwdd6WkCCCAWhrWQIw+7Wtib8oAJa4FBEH+0RAgMBAAE="
+}
